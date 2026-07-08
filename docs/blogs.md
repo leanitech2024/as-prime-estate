@@ -226,3 +226,5 @@ Our experienced team provides transparent guidance, verified property options, a
 A gated community offers much more than a home—it provides security, comfort, convenience, and a strong sense of belonging. With modern infrastructure, lifestyle amenities, and long-term appreciation potential, it is an ideal choice for families, professionals, and investors alike.
 
 If you're looking for a secure and vibrant community to call home, **AS Prime Real Estate** is here to help you find the perfect property that matches your needs and aspirations.
+
+https://jsonld.com/json-ld-generator/
